@@ -1,0 +1,7 @@
+black
+ipython
+isort
+nbqa
+jupyter
+jupyter-black
+pandas
