@@ -4,4 +4,6 @@ isort
 nbqa
 jupyter
 jupyter-black
+numpy
 pandas
+seaborn
