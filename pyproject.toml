@@ -7,9 +7,11 @@ line-length = 79
 
 [tool.isort]
 known_third_party = [
+  "matplotlib",
   "numpy",
   "pandas",
-  "seaborn"
+  "scipy",
+  "seaborn",
 ]
 profile = "black"
 line_length = 79 # Need to override the default 88 for the "black" profile
